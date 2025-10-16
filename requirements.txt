@@ -1,3 +1,4 @@
 langchain
 langchain-openai
 langchain-huggingface
+python-dotenv
